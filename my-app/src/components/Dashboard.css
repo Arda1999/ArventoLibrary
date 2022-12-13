@@ -1,0 +1,29 @@
+.table-div{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    
+}
+table,
+td {
+  
+    background-color: rgb(46, 148, 53);
+    color: rgb(248, 244, 244);
+    border-spacing: 10px;
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    
+}
+.sutun-baslik{
+    border: 1px solid rgb(241, 233, 233);
+    width: 310px;
+    
+    
+}
+
+tr{
+   margin-right: 10px;
+   margin: 10px;
+}
+
